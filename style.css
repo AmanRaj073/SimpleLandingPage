@@ -5,7 +5,7 @@
 }
 .container {
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url(Img/background.png);
+    url(background.png);
   width: 100%;
   height: 100vh;
   background-position: center;
@@ -88,19 +88,19 @@ button{
     background-size: cover;
   }
 .card1{
-    background-image: url(Img/pic-1.png);
+    background-image: url(pic-1.png);
 
 }
 .card2{
-    background-image: url(Img/pic-2.png);
+    background-image: url(pic-2.png);
 
 }
 .card3{
-    background-image: url(Img/pic-3.png);
+    background-image: url(pic-3.png);
 
 }
 .card4{
-    background-image: url(Img/pic-4.png);
+    background-image: url(pic-4.png);
 
 }
 h5{
